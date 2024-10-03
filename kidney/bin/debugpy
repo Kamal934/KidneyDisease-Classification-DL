@@ -1,4 +1,4 @@
-#!/home/kamal/python/KidneyDisease-Classification-DL/kidney/bin/python
+#!/home/kamal/python/KidneyDisease-Classification-DL/kidney/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

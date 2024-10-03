@@ -1,0 +1,17 @@
+mlflow<3,>=2.2
+cffi==1.17.1
+cloudpickle==2.2.1
+colorama==0.4.6
+defusedxml==0.7.1
+filelock==3.16.1
+fsspec==2024.9.0
+numpy==1.23.5
+packaging==23.2
+pandas==2.2.3
+pillow==10.4.0
+protobuf==4.25.5
+pydot==3.0.2
+pygments==2.18.0
+requests==2.32.3
+scipy==1.14.1
+tensorflow==2.12.0

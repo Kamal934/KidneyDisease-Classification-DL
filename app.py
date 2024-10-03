@@ -15,7 +15,7 @@ CORS(app)
 
 class ClientApp:
     def __init__(self):
-        self.filename = "inputImage.jpg"
+        self.filename = "artifacts/data_ingestion/kidney-ct-scan-image/Normal/Normal- (2).jpg"
         self.classifier = PredictionPipeline(self.filename)
 
 

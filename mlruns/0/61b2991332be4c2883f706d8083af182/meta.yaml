@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kamal/python/KidneyDisease-Classification-DL/mlruns/0/61b2991332be4c2883f706d8083af182/artifacts
+end_time: 1727984249686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61b2991332be4c2883f706d8083af182
+run_name: awesome-pug-968
+run_uuid: 61b2991332be4c2883f706d8083af182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727984237919
+status: 3
+tags: []
+user_id: kamal
